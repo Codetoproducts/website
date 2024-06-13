@@ -1,0 +1,38 @@
+{
+  "team": [
+    {
+      "name": "",
+      "imageUrl": "",
+      "skills": ""
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Software Development",
+      "description": "Our team specializes in creating robust, scalable, and innovative software solutions tailored to your business needs. We leverage the latest technologies and industry best practices to ensure high performance and reliability. From concept to deployment, we manage the entire development lifecycle with precision and care. Partner with us to transform your ideas into powerful digital solutions."
+    },
+    {
+      "id": 2,
+      "title": "Web/Mobile Apps",
+      "description": "We design and develop intuitive and responsive web and mobile applications that enhance user experience and drive engagement. Our team ensures seamless functionality across all devices, delivering high-quality apps that meet your business objectives. From initial concept to launch, we provide end-to-end solutions tailored to your specific needs. Elevate your digital presence with our expert app development services."
+    },
+    {
+      "id": 3,
+      "title": "SEO",
+      "description": "Boost your online visibility and attract more customers with our comprehensive SEO services. We use proven strategies and the latest tools to optimize your website for search engines, improving your rankings and driving organic traffic. Our approach includes keyword research, on-page optimization, and link building to ensure sustainable growth. Let us help you achieve higher search rankings and greater online success."
+    },
+    {
+      "id": 4,
+      "title": "Process Automation",
+      "description": "Streamline your operations and increase efficiency with our custom process automation solutions. We specialize in automating repetitive tasks, reducing manual errors, and enhancing productivity. Our solutions are designed to integrate seamlessly with your existing systems, providing you with a smooth transition and immediate benefits. Partner with us to transform your business processes and achieve new levels of operational excellence."
+    }
+  ],
+  "contact": {
+    "phone": "+90 555 888 5544",
+    "email": "examples@example.com",
+    "address": "famagusta"
+  },
+  "experience": "",
+  "skills": ""
+}
