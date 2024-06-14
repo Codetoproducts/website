@@ -1,10 +1,11 @@
 const ContactForm = () => {
   return (
-    <div className="p-10 bg-slate-800 rounded-lg">
+    <div className="p-5 bg-slate-800 rounded-lg lg:p-10">
       <h2 className="text-emerald-500 text-2xl">Let's Work Together</h2>
       <p className="text-white my-5">
-        We are always looking for talented developers to join our team. If you
-        are interested in working with us, please fill out the form below.
+        We are always looking for talented developers to join our team and are
+        ready to take on exciting new projects. If you are interested in working
+        with us, please fill out the form below.
       </p>
       <div className="flex flex-col gap-5 xl:grid-cols-2 xl:grid mt-5">
         <input

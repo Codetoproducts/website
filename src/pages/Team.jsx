@@ -18,7 +18,7 @@ const Team = () => {
       <div className="flex flex-row flex-wrap gap-8 justify-center max-w-3xl mx-auto">
         <MemberImage
           source={ali}
-          alt={"Ali"}
+          alt={"Alinex"}
           url={"https://www.linkedin.com/in/alikamalimh/"}
         />
         <MemberImage

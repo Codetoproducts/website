@@ -24,12 +24,14 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   const location = useLocation();
   return (
-    <header className="flex flex-row justify-between px-8 py-12 items-center">
-      <img
-        src={logo}
-        alt="Codetoproducts"
-        className="w-[60px] aspect-square rounded-full"
-      />
+    <header className="flex flex-row justify-between px-8 py-8 items-center">
+      <a href="https://codetoproducts.com">
+        <img
+          src={logo}
+          alt="Codetoproducts"
+          className="w-[96px] aspect-square rounded-full"
+        />
+      </a>
 
       <nav className="flex-row justify-center items-center h-full gap-6 hidden lg:flex">
         {routes.map((routeObject, index) => (

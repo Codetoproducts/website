@@ -33,6 +33,27 @@
     "email": "examples@example.com",
     "address": "famagusta"
   },
-  "experience": "",
+  "experience": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "Our team has extensive experience in building responsive and dynamic websites tailored to client needs. We focus on creating user-friendly interfaces and robust backend systems to ensure a seamless experience for both users and administrators."
+    },
+    {
+      "id": 2,
+      "title": "React Experience for Mobile",
+      "description": "With a strong background in developing mobile applications using React Native, we deliver high-performance apps for both iOS and Android platforms. Our expertise ensures smooth and efficient mobile experiences, maximizing engagement and satisfaction."
+    },
+    {
+      "id": 3,
+      "title": "Debugging and Security Issues",
+      "description": "We specialize in identifying and resolving complex debugging and security issues in software applications. Our proactive approach ensures your systems are secure and reliable, protecting your business from potential threats and downtime."
+    },
+    {
+      "id": 4,
+      "title": "SEO for Websites",
+      "description": "Our team has successfully improved search engine rankings for various websites through comprehensive SEO strategies. We focus on optimizing content, enhancing site structure, and building quality backlinks to drive organic traffic and boost online visibility."
+    }
+  ],
   "skills": ""
 }
